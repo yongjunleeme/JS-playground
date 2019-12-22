@@ -1,9 +1,9 @@
-const form = document.querySelector(".subject-form"),
-input = form.querySelector("input"),
-comment = document.querySelector(".comment");
+const form = document.querySelector(".focus-form"),
+    input = form.querySelector("input"),
+    comment = document.querySelector(".focus-comment");
 
-const COM_LS = "cuurentComment";
-const SHOWING_COM = "showing";
+const COM_LS = "cuurentComment",
+    SHOWING_COM = "showing";
 
 function saveComment(val) {
     localStorage.setItem(COM_LS, val)
@@ -11,7 +11,7 @@ function saveComment(val) {
 
 function handleSubmmit(event) {
     event.preventDefault();
-    const currentValue = event.value;
+    const currentValue = input.value;
     paintComment(currentValue);
     saveComment(currentValue);
 }
@@ -29,7 +29,7 @@ function paintComment(text) {
 
 function init() {
     const curretComment = localStorage.getItem(COM_LS);
-    if (COM_LS === null) { 
+    if (curretComment === null) { 
         askForComment();
     } else {
         paintComment(curretComment);
