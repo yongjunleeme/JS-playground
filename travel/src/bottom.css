@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 30px;
+}
+
+.nav-route {
+  font-size: 30px;
+  border-radius: 50%;
+  color: white;
+  background-color: #3f67ff;
+  padding: 10px;
+}
+
+.nav-route {
+  display: flex;
+  align-self: flex-start;
+}
+
+.nav-column {
+  margin-top: 40px;
+  font-size: 20px;
+  color: #3f67ff;
+}

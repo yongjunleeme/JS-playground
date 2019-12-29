@@ -1,0 +1,65 @@
+.airpods {
+    height: 60%;
+    border-radius: 2%;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+  }
+  
+  .airpods-main {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .airpods-photo {
+    width: 70%;
+    height: 60%;
+    padding: 80px;
+    margin: 0 auto;
+  }
+  
+  .airpods-title {
+    margin-left: 40px;
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px;
+  }
+  
+  .airpods-content {
+    margin-left: 40px;
+    font-family: "Open Sans";
+    font-size: 25px;
+    opacity: 0.5;
+    padding: 10px;
+  }
+  
+  .airpods-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .airpods-footer__price {
+    margin-left: 40px;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 700;
+    padding: 10px;
+  }
+  
+  .airpods-footer__column {
+    margin: 30px 0px;
+  }
+  
+  .airpods-footer__column i {
+    font-size: 20px;
+    color: #febc52;
+  }
+  
+  .airpods-footer__grade {
+    font-size: 20px;
+    opacity: 0.5;
+    margin-right: 50px;
+    margin-left: 10px;
+  }
+  

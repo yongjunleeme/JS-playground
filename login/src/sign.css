@@ -1,0 +1,70 @@
+.sign {
+    display: flex;
+    flex-direction: column;
+    border-top-right-radius: 3%;
+    border-top-left-radius: 3%;
+    background-color: #f8f8f8;
+  }
+  
+  .sign__name {
+    font-family: "Roboto Mono";
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 70px;
+  }
+  
+  .sign__input {
+    display: block;
+  }
+  
+  .sign__email {
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    opacity: 0.4;
+    padding: 5px;
+  }
+  
+  .sign__password {
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 25px;
+    font-size: 15px;
+    opacity: 0.4;
+    padding: 5px;
+  }
+  
+  .sign__forgotPW {
+    display: flex;
+    justify-content: flex-end;
+    color: #ed8d98;
+    right: 0;
+    padding-bottom: 10px;
+    font-size: 15px;
+  }
+  
+  .sign__remeberME {
+    padding-bottom: 10px;
+    font-size: 18px;
+    padding-bottom: 30px;
+  }
+  
+  .sign__singin {
+    border-radius: 20px;
+    background-color: #e2283e;
+    color: white;
+    width: 100%;
+    height: 55px;
+    margin-bottom: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+  }
+  

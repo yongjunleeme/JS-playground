@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f8f7ff;
+  display: flex;
+  justify-content: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: #717171;
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #eb7c89;
+}
+
+.phone {
+  margin-top: 50px;
+  background-color: #f8f8f8;
+  width: 350px;
+  height: 700px;
+  border-radius: 40px;
+  box-shadow: inset -6px -6px 15px rgba(145, 160, 180, 0.45),
+    30px 30px 40px rgba(118, 146, 180, 0.18);
+  overflow: hidden;
+  padding: 30px;
+}
+
+.screen {
+  width: 100%;
+  height: 100%;
+  background-color: #f6f6f6;
+  border-radius: 25px;
+  position: relative;
+  overflow: hidden;
+}
+
+.header .header__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 15px;
+  position: absolute;
+  width: 100%;
+  top: 20px;
+}
+
+.header .header__top-sub {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  position: absolute;
+  top: 67px;
+  font-weight: 600;
+}
+
+.header .header__photos {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10vh;
+  padding: 0px 0px;
+}
+
+.header .header__photo {
+  width: 140px;
+  height: 80px;
+  background-image: url("https://www.sbs.com.au/food/sites/sbs.com.au.food/files/afghan-lamb-pilaf-01.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.other-recipes {
+  height: 300px;
+  margin: 20px 0px;
+}
+
+.otehr-recipes__content {
+  padding: 20px 0px;
+}
+
+.other-recipe {
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  background-color: white;
+  margin: 10px 0px;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 11px;
+  font-weight: 600;
+  margin-top: -3px;
+  margin-bottom: 2px;
+}
+
+.subtitle {
+  font-size: 8px;
+  font-weight: 400;
+}
+
+.otehr_recipe__more {
+  margin-top: 2px;
+}
+
+.tab-bar {
+  position: absolute;
+  width: 100%;
+  background-color: white;
+  height: 70px;
+  bottom: -5px;
+  box-shadow: 5px 5px 40px rgba(118, 146, 180, 0.5);
+}
+
+.tab-bar .tab-bar__list {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-size: 22px;
+  margin: 7px 5px;
+}
+
+.tab-bar .tab-bar__tab:nth-child(2) {
+  color: #eb7c89;
+}

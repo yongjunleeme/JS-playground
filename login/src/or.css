@@ -1,0 +1,51 @@
+.or {
+    display: flex;
+    flex-direction: column;
+    border-bottom-right-radius: 3%;
+    border-bottom-left-radius: 3%;
+    background-color: #f8f8f8;
+  }
+  
+  .or__name {
+    font-family: "Roboto Mono";
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+  }
+  
+  .or__auth {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 50px;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .or__facebook {
+    background-color: #475a95;
+    padding: 17px 80px;
+    border-radius: 20px;
+    margin-right: 5px;
+    left: 0;
+  }
+  
+  .or__twitter {
+    background-color: #5ca1f2;
+    padding: 17px 80px;
+    border-radius: 20px;
+    margin-right: 5px;
+    right: 0;
+  }
+  
+  .or__footer {
+    margin: 10px 0px;
+  }
+  
+  .or__signup,
+  .or__retruve {
+    color: #e2283e;
+    font-size: 18px;
+  }
+  

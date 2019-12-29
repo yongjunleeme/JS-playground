@@ -1,0 +1,82 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    border-radius: 2%;
+  }
+  
+  .profile-header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+  }
+  
+  .profile-header__BG {
+    width: 100%;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+  }
+  
+  .profile-header__photo {
+    position: absolute;
+    width: 200px;
+    border-radius: 100px;
+    bottom: -100px;
+    padding: 8px;
+    background-color: #ffffff;
+  }
+  
+  .profile-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+    background-color: #ffffff;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+  }
+  
+  .profile-footer__title {
+    margin-top: 150px;
+  }
+  
+  .profile-footer__name {
+    font-size: 60px;
+    font-weight: 700;
+  }
+  
+  .profile-footer__content {
+    margin-top: 30px;
+  }
+  
+  .profile-footer__position {
+    font-size: 40px;
+    opacity: 0.5;
+  }
+  
+  .profile-footer__column {
+    margin-top: 120px;
+  }
+  
+  .profile-footer__Follow {
+    width: 400px;
+    height: 100px;
+    background-color: #6b74ff;
+    color: white;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .profile-footer__Message {
+    width: 400px;
+    height: 100px;
+    background-color: #eaecff;
+    color: #6b74ff;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
