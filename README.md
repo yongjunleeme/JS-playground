@@ -5,7 +5,9 @@ Repository for the JS-Basics [Nomad Academy Course](https://academy.nomadcoders.
 ## Contents
 >
 1. Momentum
-2. Paint
+
+2. [Paint](https://yongjunleeme.github.io/JS-playground)
+
 3. Simple-UI
 - [Travel](https://3vpxu.csb.app)
 
