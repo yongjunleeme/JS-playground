@@ -4,13 +4,11 @@ html{
 
 body {
   
-  
   display: flex;
 }
 
-.clock-container {
-  
-}
+
+
 .bgImg{
   position: absolute;
   top: 0;

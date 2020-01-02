@@ -52,7 +52,7 @@ function handleRangeChange(event) {
 }
 
 function handleModeClick() {
-  if (filling === ture) {
+  if (filling === true) {
     filling = false;
     mode.innerText = "Fill";
   } else {
@@ -67,15 +67,15 @@ function handleCanvasClick() {
   }
 }
 
-function handelCM(event) {
+function handleCM(event) {
   event.preventDefault();
 }
 
 function handleSaveClick() {
   const image = canvas.toDataURL();
-  const link = document.createElement('a');
+  const link = document.createElement("a");
   link.href = image;
-  link.download = "PaintJS[👩‍🎨]"
+  link.download = "PaintJS[🎨]";
   link.click();
 }
 
@@ -88,6 +88,10 @@ if (canvas) {
   canvas.addEventListener("contextmenu", handleCM);
 }
 
+Array.from(colors).forEach(color =>
+  color.addEventListener("click", handleColorClick)
+);
+
 if (range) {
   range.addEventListener("input", handleRangeChange);
 }
@@ -97,9 +101,5 @@ if (mode) {
 }
 
 if (saveBtn) {
-  saveBtn.addEventListener("click", handleSaveClick)
+  saveBtn.addEventListener("click", handleSaveClick);
 }
-
-Array.from(colors).forEach(color =>
-  color.addEventListener("click", handleColorClick)
-);

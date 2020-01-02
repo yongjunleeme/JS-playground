@@ -6,6 +6,8 @@ function paintImage(imgNumber) {
   const image = new Image();
   image.src = `momentum/images/${imgNumber + 1}.jpg`;
   image.classList.add("bgImage");
+
+
   body.prepend(image);
 }
 
