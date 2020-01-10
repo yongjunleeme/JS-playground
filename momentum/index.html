@@ -6,13 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Momentum</title>
 
-    <link rel="stylesheet" href="./momentum/styles/bg.css">
+    <link rel="stylesheet" href="style.css" / >
 </head>
 <body>   
+    <!-- clock -->
     <div class="clock-container">
         <h3 class="clock"></h3>
     </div>
      
+    <!-- comment -->
     <section id="focus" class="section">     
         <h4 class="focus-comment">What is your main focus for today?</h4> 
         <form class="focus-form form">
@@ -20,6 +22,7 @@
         </form>    
     </section>
 
+    <!-- to do list -->
     <section id="todo" class="section">
         <form class="js-toDoForm">
             <input type="text" class="input" placeholder="add task" />
@@ -33,15 +36,17 @@
         <ul class="js-finishedList"></ul>
         </h2>
     </section>
+
+    <!-- weather --> 
     <section id="weather" class="section">
         <span class="weather"></span>
     </section>
         
     </main>
-    <script src="momentum/clock.js"></script>
-    <script src="momentum/commnet.js"></script>
-    <script src="momentum/todo.js"></script>
-    <script src="momentum/bg.js"></script>
-    <script src="momentum/weather.js"></script>
+    <script src="clock.js"></script>
+    <script src="commnet.js"></script>
+    <script src="todo.js"></script>
+    <script src="bg.js"></script>
+    <script src="weather.js"></script>
 </body>
 </html>
