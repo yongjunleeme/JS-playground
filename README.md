@@ -1,9 +1,9 @@
 # JS-PlayGround
->
-Repository for the JS-Basics [Nomad Academy Course](https://academy.nomadcoders.co/).
 
-## Contents
->
+Repository for the JS-Basics. 
+
+# Contents
+
 1. Momentum
 
 2. [Paint](https://yongjunleeme.github.io/JS-playground)
@@ -18,3 +18,18 @@ Repository for the JS-Basics [Nomad Academy Course](https://academy.nomadcoders.
 - [profile](https://7w54v.csb.app)
 
 - [prifile_2](https://q3511.csb.app)
+
+4. 31Days31Projects
+- [Custom Progress Bar](https://codepen.io/yongjunleeme/pen/WNbywpM)
+
+- [image password strength](https://codepen.io/yongjunleeme/pen/rNavRWx)
+
+- [Dad jokes generator](https://codepen.io/yongjunleeme/pen/bGNKpwo)
+
+- [My line through effect](https://codepen.io/yongjunleeme/pen/wvBXKGY)
+
+
+
+# Instructor
+- [Nomad Academy Course](https://academy.nomadcoders.co/)
+- [Florin Pop](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
