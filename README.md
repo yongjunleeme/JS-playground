@@ -32,6 +32,10 @@ Repository for the JS-Basics.
 
     - [Incrementing Counter](https://codepen.io/yongjunleeme/pen/jOEKdKK)
 
+    - [Custom Checkbox](https://codepen.io/yongjunleeme/pen/JjoBOPo)
+
+    - [Tarffic Lights Simulator](https://codepen.io/yongjunleeme/pen/YzPOXgy)
+
 
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
