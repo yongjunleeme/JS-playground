@@ -34,8 +34,7 @@ Repository for the JS-Basics.
 
     - [Custom Checkbox](https://codepen.io/yongjunleeme/pen/JjoBOPo)
 
-    - [Tarffic Lights Simulator](https://codepen.io/yongjunleeme/pen/YzPOXgy)
-
+	- [Image Reflection](https://codepen.io/yongjunleeme/pen/ZEYMPRN)
 
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
