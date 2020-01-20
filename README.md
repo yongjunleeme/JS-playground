@@ -36,6 +36,14 @@ Repository for the JS-Basics.
 
 	- [Image Reflection](https://codepen.io/yongjunleeme/pen/ZEYMPRN)
 
+    - [Hover Board](https://codepen.io/yongjunleeme/pen/ZEYqaym)
+
+    - [Loading Animation](https://codepen.io/yongjunleeme/pen/JjomzQY)
+
+    - [Auto Test Effect](https://codepen.io/yongjunleeme/pen/povQEzQ)
+
+    - [Smooth Scrollling](https://codepen.io/yongjunleeme/pen/jOEQXGX)
+
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
 - [Florin Pop](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
