@@ -44,6 +44,8 @@ Repository for the JS-Basics.
 
     - [Smooth Scrollling](https://codepen.io/yongjunleeme/pen/jOEQXGX)
 
+    - [Live Visit Count](https://codepen.io/yongjunleeme/pen/WNbYPGe)
+
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
 - [Florin Pop](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
