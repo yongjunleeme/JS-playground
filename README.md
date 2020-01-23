@@ -44,7 +44,11 @@ Repository for the JS-Basics.
 
     - [Smooth Scrollling](https://codepen.io/yongjunleeme/pen/jOEQXGX)
 
+    - [Random Meal Generator](https://codepen.io/yongjunleeme/pen/povGRQW)
+
     - [Live Visit Count](https://codepen.io/yongjunleeme/pen/WNbYPGe)
+
+    - [Waves](https://codepen.io/yongjunleeme/pen/qBELpJa)
 
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
