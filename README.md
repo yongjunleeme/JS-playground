@@ -50,6 +50,12 @@ Repository for the JS-Basics.
 
     - [Waves](https://codepen.io/yongjunleeme/pen/qBELpJa)
 
+    - [Kinetic Loader](https://codepen.io/yongjunleeme/pen/RwNdgYm)
+
+    - [Newsletter Design](https://codepen.io/yongjunleeme/pen/QWwoVJQ)
+
+    - [Rotating Circle Animation](https://codepen.io/yongjunleeme/pen/RwNONWX)
+
 # Instructors
 - [Nomad Academy Course](https://academy.nomadcoders.co/)
 - [Florin Pop](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
